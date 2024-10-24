@@ -1,0 +1,3 @@
+D:/Predrag/Privatni Casovi/Zadaci/promenlivi i vlez-izlez/cmake-build-debug/CMakeFiles/promenlivi_i_vlez_izlez.dir
+D:/Predrag/Privatni Casovi/Zadaci/promenlivi i vlez-izlez/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Predrag/Privatni Casovi/Zadaci/promenlivi i vlez-izlez/cmake-build-debug/CMakeFiles/rebuild_cache.dir
