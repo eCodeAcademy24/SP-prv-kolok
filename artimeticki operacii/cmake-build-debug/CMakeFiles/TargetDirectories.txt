@@ -1,0 +1,3 @@
+D:/Predrag/Privatni Casovi/Zadaci/artimeticki operacii/cmake-build-debug/CMakeFiles/artimeticki_operacii.dir
+D:/Predrag/Privatni Casovi/Zadaci/artimeticki operacii/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Predrag/Privatni Casovi/Zadaci/artimeticki operacii/cmake-build-debug/CMakeFiles/rebuild_cache.dir
