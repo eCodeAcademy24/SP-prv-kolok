@@ -1,0 +1,3 @@
+D:/Predrag/Privatni Casovi/Zadaci/sumarizacija/12/cmake-build-debug/CMakeFiles/12.dir
+D:/Predrag/Privatni Casovi/Zadaci/sumarizacija/12/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Predrag/Privatni Casovi/Zadaci/sumarizacija/12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
